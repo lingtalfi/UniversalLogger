@@ -7,7 +7,7 @@ namespace UniversalLogger;
 /**
  * The UniversalLoggerInterface interface.
  *
- * A logger will send log messages to a given channel.
+ * A logger will send log messages to some channels.
  *
  */
 interface UniversalLoggerInterface
