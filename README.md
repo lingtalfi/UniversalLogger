@@ -42,6 +42,10 @@ The **UniversalLogger** has just one method:
 History Log
 ------------------
 
+- 1.1.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.1.0 -- 2019-08-30
 
     - updated UniversalLoggerInterface->log, now the message doesn't have to be a string
